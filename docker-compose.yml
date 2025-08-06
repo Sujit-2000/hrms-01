@@ -4,7 +4,7 @@ services:
 
   springboot-service:
 
-    image: sujit2000/backend:z1
+    image: siddhi178/backend:z5
 
     environment:
 
@@ -28,7 +28,7 @@ services:
  
   frontend:
 
-    image: sujit2000/frontend:z1
+    image: siddhi178/frontend:z5
 
     ports:
 
